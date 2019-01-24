@@ -1,4 +1,6 @@
 # Drugs-Benefits-Clustering
+> **(October, 2018)**
+
 * Analysis of patients’ drug reviews and grouping them into clusters using k-means in order to identify which drugs were used for similar conditions and similar benefits.
 * Comparison with two other clustering algorithms (Agglomerative and BIRCH) and visualisation of the process and results.
 
