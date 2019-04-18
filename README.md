@@ -8,3 +8,8 @@
 * See Drug Benefit Clustering.pdf for technical report on the assignment.
 * See .ipynb files for preprocessing function, clustering models and visualisation methods.
 * processed1.xlsx file contains the data on which clustering was performed.
+
+## Publication
+This code was written for obtaining results for the paper I presented in the International Conference on Sustainable Computing in Science, Technology & Management (SUSCOM-2019) (published in ELSEVIER SSRN).
+
+[View publication](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3356314)
